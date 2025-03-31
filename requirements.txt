@@ -5,3 +5,6 @@ requests
 matplotlib
 seaborn
 plotly
+flask-cors
+gunicorn
+flask
